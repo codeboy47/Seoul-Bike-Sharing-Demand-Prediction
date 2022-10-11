@@ -1,4 +1,4 @@
-# Seoul-Bike-Sharing-Demand-Prediction
+# Seoul Bike Sharing Demand Prediction
 
 The goal is to analyze and predict the demand of rented bikes. The dataset has 8,760 observations with 14 columns containing both categorical and numeric/non-categorical data.
 
