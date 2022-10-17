@@ -36,7 +36,7 @@ Rental bikes are presented in numerous metropolitan cities to improve portabilit
 
 ## Models applied and their comparison
 Regression algorithms used for predictions:
-| S.No | Algorithm | RMSE | RAE | R2 | Adjusted R2 |
+| S.No | Algorithm | RMSE | MAE | R2 | Adjusted R2 |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Linear regression | 304.39021 | 208.32013 | 0.76824 | 0.76236 |
 | 2. | Polynomial regression(2nd degree) | 186.33570 | 117.37459 | 0.91315 | 0.91094 |
