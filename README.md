@@ -49,7 +49,7 @@ There is not much difference between R2 and adjusted R2 which means the features
 
 ## Conclusion
 - The R2 score for linear regression and all the regularization techniques like lasso, ridge and elasticnet is almost the same.
-- For decision tree, the R2 score comes out to be 0.84. Also, the RMSE and MAE are comparatively low from other regression algorithms.
+- For random forest, the R2 score comes out to be 0.84. Also, the RMSE and MAE are comparatively low from other regression algorithms.
 - 2nd-degree polynomial regression has the highest value of R2 score which means there is a non-linear relationship between the dependent and independent variables.
 
 Hence we can rely on polynomial regression for predicting the bike count required at each hour in order to maintain the stable inventory of rental bikes.
