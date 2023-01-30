@@ -38,12 +38,12 @@ Rental bikes are presented in numerous metropolitan cities to improve portabilit
 Regression algorithms used for predictions:
 | S.No | Algorithm | RMSE | MAE | R2 | Adjusted R2 |
 | --- | --- | --- | --- | --- | --- |
-| 1. | Linear regression | 304.39021 | 208.32013 | 0.76824 | 0.76236 |
-| 2. | Polynomial regression(2nd degree) | 186.33570 | 117.37459 | 0.91315 | 0.91094 |
-| 3. | Lasso regression | 304.78331 | 208.25760 | 0.76764 | 0.76174 |
-| 4. | Ridge regression | 304.79281 | 208.28786 | 0.76762 | 0.76173 |
+| 1. | Linear Regression | 304.39021 | 208.32013 | 0.76824 | 0.76236 |
+| 2. | Polynomial Regression(2nd degree) | 186.33570 | 117.37459 | 0.91315 | 0.91094 |
+| 3. | Lasso Regression | 304.78331 | 208.25760 | 0.76764 | 0.76174 |
+| 4. | Ridge Regression | 304.79281 | 208.28786 | 0.76762 | 0.76173 |
 | 5. | ElasticNet | 304.79324 | 208.27995 | 0.76762 | 0.76173 |
-| 6. | Decision tree regressor | 250.74488 | 151.93542 | 0.84273 | 0.83874 |
+| 6. | Random Forest Regressor | 250.74488 | 151.93542 | 0.84273 | 0.83874 |
 
 There is not much difference between R2 and adjusted R2 which means the features that we added are significant to the model.
 
